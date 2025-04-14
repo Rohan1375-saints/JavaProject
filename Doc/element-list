@@ -1,0 +1,8 @@
+module:org.example.projectj3
+org.example.projectj3
+org.example.projectj3.DAO
+org.example.projectj3.Database
+org.example.projectj3.GUI
+org.example.projectj3.pojo
+org.example.projectj3.tables
+org.example.projectj3.tests
