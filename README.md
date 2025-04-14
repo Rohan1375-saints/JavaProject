@@ -63,7 +63,7 @@ To run this project locally, follow these steps:
  
     
  ```
- git clone https://github.com/ArtinDoroudi/ToDoList-J3.git
+ git clone https://github.com/Rohan1375-saints/JavaProject
  cd ToDoList-J3
  ```
  
