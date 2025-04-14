@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 📝 To-do List Application
 
@@ -189,13 +190,7 @@ We currently support Windows 11 and macOS Sequoia 15.0. Support for other platfo
 
 ## Authors
 
-[@ArtinDoroudi](https://github.com/ArtinDoroudi)
-
-[@IsaiahWoodley](https://github.com/IsaiahWoodley)
-
-[@tunmisetayo](https://github.com/tunmisetayo)
-
-[@RushabhParekh](https://github.com/RushabhParekh)
+[@RohanParmar](https://github.com/rohan1375)
 
 
 ## License
@@ -221,3 +216,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=======
+# JavaProject
+
+Initial Repository
+>>>>>>> 120306b5e6939884cb2fdf661e12b3536d3a82f1
